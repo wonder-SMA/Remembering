@@ -456,7 +456,7 @@ const voc = {
 };
 
 const arr = ['for', 'ill', 'way', 'lie', 'joy', 'via', 'let', 'hit', 'out', 'too', 'fee', 'that', 'fill', 'grab', 'calm', 'mean', 'then', 'than', 'tend', 'even', 'pass', 'seek', 'pain', 'wear', 'some', 'whom', 'join', 'over', 'mood', 'none', 'bill', 'obey', 'tail', 'such', 'same', 'hire', 'mess', 'lend', 'rude', 'face', 'near', 'sore', 'pity', 'urge', 'hope', 'sick', 'type', 'care', 'yard', 'mind', 'last', 'seem', 'poor', 'sigh', 'loaf', 'meal', 'feed', 'earn', 'hint', 'fire', 'pant', 'crap', 'sack', 'dirt', 'once', 'else', 'late', 'kind', 'wish', 'fair', 'term', 'gulp', 'dawn', 'serve', 'pride', 'reach', 'fully', 'loud ', 'creep', 'enjoy', 'early', 'doubt', 'fetch', 'merge', 'expel', 'shout', 'cause', 'avoid', 'tough', 'alone', 'argue', 'quite', 'truly', 'worse', 'carry', 'while', 'float', 'allow', 'issue', 'serve', 'bring', 'renew', 'awake', 'dirty', 'hurry', 'which', 'raise', 'blind', 'whole', 'along', 'laugh', 'spill', 'order', 'spare', 'aware', 'found', 'as if', 'apart', 'aloof', 'worry', 'hover', 'asset', 'waste', 'below', 'above', 'state', 'claim', 'handy', 'decent', 'likely', 'advice', 'remain', 'direct', 'scream', 'branch', 'though', 'insane', 'refuse', 'escape', 'borrow', 'insult', 'famous', 'couple', 'retire', 'abroad', 'no one', 'barely', 'hardly', 'seldom', 'borrow', 'buried', 'behave', 'jungle', 'unless', 'almost', 'guilty', 'candle', 'prefer', 'pretty', 'booked', 'behave', 'spread', 'salary', 'enough', 'affair', 'manage', 'demand', 'proper', 'entire', 'afford', 'punish', 'target', 'assign', 'expect', 'inform', 'severe', 'gather', 'afraid', 'sudden', 'exceed', 'notice', 'quirky', 'attend', 'rather', 'desert', 'rescue', 'bundle', 'amount', 'offset', 'speech', 'honest', 'beyond', 'revoke', 'depend', 'mutual', 'agency', 'indeed', 'aspire', 'deeper', 'chamber', 'society', 'convict', 'suppose', 'concern', 'used to', 'certain', 'inhabit', 'go over', 'destiny', 'express', 'improve', 'in fact', 'abandon', 'through', 'furious', 'neither', 'nothing', 'journey', 'exactly', 'ancient', 'quarrel', 'set off', 'charity', 'pick up', 'luggage', 'take up', 'jealous', 'meet up', 'another', 'as well', 'provide', 'exclaim', 'receive', 'peasant', 'inquire', 'suggest', 'suppose', 'instead', 'citizen', 'bizarre', 'cuisine', 'initial', 'subject', 'give up', 'at once', 'mention', 'plumber', 'deceive', 'capture', 'consume', 'respond', 'purpose', 'beneath', 'kind of', 'produce', 'deserve', 'careful', 'advance', 'suspend', 'inspire', 'prevent', 'achieve', 'inherit', 'foreign', 'harmful', 'further', 'perhaps', 'decision', 'increase', 'grow old', 'far away', 'discover', 'prisoner', 'scarcely', 'find out', 'cemetery', 'armchair', 'terrible', 'relative', 'postpone', 'handsome', 'stranger', 'get lost', 'head out', 'approach', 'carry on', 'knapsack', 'distinct', 'at least', 'announce', 'universe', 'obsessed', 'distract', 'look for', 'suddenly', 'midnight', 'collapse', 'lot like', 'distrust', 'criminal', 'swindler', 'suitable', 'dedicate', 'behavior', 'polarize', 'treasure', 'complain', 'honestly', 'actually', 'exchange', 'relation', 'employee', 'basically', 'coherence', 'necessity', 'as though', 'apologize', 'got to be', 'take part', 'meanwhile', 'childhood', 'difficult', 'foreigner', 'attentive', 'buckle up', 'implement', 'treatment', 'reference', 'deprecate', 'authority', 'disappear', 'rejection', 'outskirts', 'conscious', 'extensive', 'necessary', 'rainy day', 'put apart', 'dedicated', 'gradually', 'undermine', 'obsession', 'recognize', 'statement', 'frustrate', 'forbidden', 'highlight', 'definition', 'obligation', 'suggestion', 'excitement', 'by the way', 'originally', 'expression', 'each other', 'be used to', 'apparently', 'beforehand', 'invitation', 'unforeseen', 'courageous', 'deployment', 'fractional', 'possession', 'refinement', 'respective', 'persistent', 'unemployed', 'completely', 'accidental', 'let you go', 'well-being', 'particular', 'dedication', 'themselves', 'ridiculous', 'straight up', 'many a time', 'hardly ever', 'considerate', 'looking for', 'candlelight', 'give a lift', 'be promoted', 'countryside', 'fortunately', 'attentively', 'for a while', 'possibility', 'affirmative', 'handicapped', 'disappeared', 'come across', 'went insane', 'taking away', 'another way', 'participate', 'necessarily', 'expectation', 'recognition', 'consecutive', 'investigate', 'considerate', 'confidently', 'distraction', 'another one', 'wake-up call', 'good-looking', 'relationship', 'dissatisfied', 'the same way', 'troubleshoot', 'on the whole', 'incorrigible', "i don't hurt", 'given amount', 'human beings', 'particularly', 'according to', 'requirements', 'whether or no', 'i have to say', 'about whether', 'true strength', 'to get better', 'would do well', 'circumstances', 'unfortunately', 'revolutionary', 'embarrassment', 'investigation', 'the same here', 'heartbreaking', 'conversational', "someone else's", 'responsibility', 'have a good one', "let's go for it", 'i was wondering', 'all of a sudden', 'essential thing', 'harder to become', 'predetermination', 'get into trouble', 'going to have to', 'stay for a while', 'residential area', "I'll do my best to", 'get a point across', 'has just taken part', 'what are you up to?', 'storm out of a room', 'get / become used to', 'get wind of something', 'things are different now', 'what shall we start with', 'as for me / for all i care', 'that has a decent fat content', 'not to put too fine a point on'];
-let word = document.querySelector("#word");
+const word = document.querySelector('#word');
 let pos = 0;
 let neg = 0;
 
@@ -464,7 +464,7 @@ $(word).on('click', (event) => {
     let cards_lst = cards.querySelectorAll('.card');
 
     for (let card of cards_lst) {
-        card.style.background = "#1685a3";
+        card.style.background = '#1685a3';
     }
 
     let items_arr = [1, 2, 3, 4];
@@ -500,23 +500,23 @@ $(word).on('click', (event) => {
     }
 });
 
-cards = document.querySelector(`#cards`);
+const cards = document.querySelector('#cards');
 
 $(cards).on('click', (event) => {
     let target = event.target;
     let start_func = () => {
-        $("#word").click()
+        $('#word').click()
     }
-    if (word.textContent !== 'Click Here to Get Started' && target.getAttribute("class") !== "row") {
+    if (word.textContent !== 'Click Here to Get Started' && target.getAttribute('class') !== 'row') {
         if (target.textContent === voc[word.textContent]) {
-            target.style.background = "#2E8B57";
+            target.style.background = '#2E8B57';
             pos += 1;
-            $(document.querySelector(`.positive`)).text(pos);
-            setTimeout(start_func, 500);
+            $(document.querySelector('.positive')).text(pos);
+            setTimeout(start_func, 300);
         } else if (target.textContent !== voc[word.textContent]) {
-            target.style.background = "#DC143C";
+            target.style.background = '#DC143C';
             neg += 1;
-            $(document.querySelector(`.negative`)).text(neg);
+            $(document.querySelector('.negative')).text(neg);
         }
     }
 })
