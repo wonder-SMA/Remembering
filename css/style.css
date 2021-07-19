@@ -197,7 +197,7 @@ div {
     user-select: none;
 }
 
-.card:hover {
+.card:active {
     transform: scale(1.01);
     transition: transform 0.1s ease 0s;
     cursor: pointer;
@@ -275,10 +275,6 @@ div {
 
 .footer__logo-app-store:hover, .footer__logo-google-play:hover {
     opacity: 1;
-}
-
-.footer__body-section-info a:hover {
-    text-decoration: underline;
 }
 
 .row.privacy-terms {
